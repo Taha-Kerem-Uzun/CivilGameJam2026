@@ -46,3 +46,4 @@ sysinfo.txt
 *.aab
 *.unitypackage
 .vsconfig
+.vscode/
